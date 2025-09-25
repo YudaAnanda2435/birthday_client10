@@ -332,11 +332,7 @@ body {
   .idea-6 span {
     font-size: 10rem;
   }
-
-  .wish-hbd span {
-  white-space: pre;
-}
-
+  
 
   .six .hat {
     /* top: -20px; */
@@ -344,7 +340,7 @@ body {
   }
 
   .wish-hbd {
-    font-size: 1.5em;
+    font-size: 1.1em;
   }
 
   .wish h5 {
